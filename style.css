@@ -42,10 +42,11 @@ p span{
     margin: 64px auto;
 }
 
+
 #footer{
-    width: 100vh;
-    /* margin-bottom: 140px; */
+    margin-bottom: 140px;
 }
+
 
 .line {
     width: 391px;
@@ -63,6 +64,8 @@ a + a {
     margin-left: 42px;
 } 
 .wave{
-    position: relative;
-    top: 40px;
+    position: fixed;
+    width: 100%;
+    right: 0px;
+    bottom: 0px;
 }
