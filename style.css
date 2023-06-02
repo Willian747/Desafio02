@@ -58,6 +58,8 @@ p span{
 a {
     font-family: 'Open Sans';    
     font-weight: 700;
+    color: #3F3D56;
+    text-decoration: none;
 }
 
 a + a {
